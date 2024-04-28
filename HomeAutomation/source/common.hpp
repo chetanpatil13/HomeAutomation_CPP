@@ -1,3 +1,7 @@
+// Project : Home Automation
+// Date    : 28 April 2024
+// Author  : Chetan Patil
+
 #ifndef COMMON_HPP
 #define COMMON_HPP
 

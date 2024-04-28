@@ -1,3 +1,7 @@
+// Project : Home Automation
+// Date    : 28 April 2024
+// Author  : Chetan Patil
+
 #ifndef KITCHEN_HPP
 #define KITCHEN_HPP
 

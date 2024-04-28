@@ -1,3 +1,7 @@
+// Project : Home Automation
+// Date    : 28 April 2024
+// Author  : Chetan Patil
+
 #ifndef HOME_AUTOMATION_HPP
 #define HOME_AUTOMATION_HPP
 
